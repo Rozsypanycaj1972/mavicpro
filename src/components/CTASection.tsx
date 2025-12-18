@@ -27,6 +27,12 @@ const CTASection = () => {
           Survey takes a few minutes • Tasks can be completed at your pace
         </p>
       </div>
+      
+      <div className="mt-16 pt-8 border-t border-white/10 max-w-4xl mx-auto">
+        <p className="text-sm text-[hsl(var(--hero-text-muted))] text-center">
+          © 2026 DroneSurvey. All rights reserved.
+        </p>
+      </div>
     </section>
   );
 };
